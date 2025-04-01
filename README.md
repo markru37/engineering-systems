@@ -55,8 +55,8 @@
 ## 🛠️ Технологии
 
 - Язык: Typescript, scss, html;
-- Фреймворк: Naxt.js 2;
+- Фреймворк: Nuxt.js 2;
 - Дизайн: Figma;
 - state-manager: vuex; 
 - devOps: docker;
-- linter: EsLint, Prettier, SLint.
+- linter: EsLint, Prettier, StyleLint.
