@@ -57,6 +57,6 @@
 - Язык: Typescript, scss, html;
 - Фреймворк: Nuxt.js 2;
 - Дизайн: Figma;
-- state-manager: vuex; 
-- devOps: docker;
+- State Manager: Vuex; 
+- DevOps: docker;
 - linter: EsLint, Prettier, StyleLint.
