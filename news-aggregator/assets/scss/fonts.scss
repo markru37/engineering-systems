@@ -1,0 +1,23 @@
+@mixin h1-font {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 41px;
+}
+
+@mixin h3-font {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@mixin text-font {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+@mixin resources-font {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 16px;
+}

@@ -1,0 +1,56 @@
+// Colors
+
+// Action colors
+$color-base: #0ef4df;
+$color-warning: #eb4d4b;
+$color-secondary: #c4c4c4;
+
+// Background colors
+$color-background-black: #0d0e10;
+$color-background-dark: #1f1a24;
+$color-background-red: #ff0;
+$color-background-yellow: #af8a1b;
+$color-background-indigo: #332940;
+$color-background-green: #309f5f;
+$color-background-gray: #f7f7f7;
+
+// Common colors
+$color-darkpurple: #6b0bf4;
+$color-darkgray: #656565;
+
+// Light colors
+$color-white: #fff;
+$color-light: #e5e5e5;
+$color-light-blue: #44b8ea;
+$color-light-gray: #dcdcdc;
+$color-green: #339f37;
+$color-blue: #0029ff;
+
+// Fonts
+$font-inter: 'Inter', sans-serif;
+$font-lato: 'Lato', sans-serif;
+$font-roboto: 'Roboto', sans-serif;
+$font-arial: 'Arial';
+
+// Easing transitions
+$duration-normal: 0.4s;
+$easing-back-out: cubic-bezier(0.25, 0.74, 0.22, 1.1); // http://cubic-bezier.com/#.25,.74,.22,1.1
+$easing-back-in: cubic-bezier(0.47, -0.1, 0.5, -0.06); // http://cubic-bezier.com/#.47,-0.1,.5,-.06
+$easing-out: ease-out;
+$easing-in: ease-in;
+
+// Displays
+$desktop-xxl: 1800;
+$desktop-xl: 1440;
+$desktop: 1025;
+$laptop: 1440;
+$tablet: 768;
+$mobile: 320;
+$desktop-vh: 750;
+
+// Border radius
+$round-border: 100%;
+$default-border: 3px;
+
+// Box shadow
+$default-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.05), 0px 1px 4px rgba(0, 0, 0, 0.05);
