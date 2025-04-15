@@ -1,0 +1,11 @@
+version: '3'
+services:
+  nuxt:
+    build: .
+    environment:
+      - NUXT_HOST=0.0.0.0
+      - NUXT_PORT=3000
+    container_name: development-nuxt
+    ports:
+      - 3000:3000
+    restart: always

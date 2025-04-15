@@ -1,0 +1,10 @@
+node_modules
+.github
+.nuxt
+.editorconfig
+.eslintrc.js
+.gitignore
+.prettierignore
+.prettierrc
+README.md
+LICENSE
