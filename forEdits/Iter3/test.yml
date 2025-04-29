@@ -1,0 +1,27 @@
+paths:
+  /api/v1/news:
+    get:
+      parameters:
+        - name: category
+          in: query
+          schema:
+            type: string
+          example: "politics"
+      responses:
+        200:
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/NewsItem'
+components:
+  schemas:
+    NewsItem:
+      type: object
+      properties:
+        id: {type: string}
+        title: {type: string}
+        content: {type: string}
+        source: {type: string}
+        published_at: {type: string, format: date-time}
