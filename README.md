@@ -424,7 +424,7 @@ SSR-приложение на базе **Nuxt.js 2** с использовани
 - CDN и Edge-Cache для быстрой отдачи контента
 
 ## 🗃 Модель предметной области / данных
-![alt text=a]([https://sun9-53.userapi.com/impg/Wx2mdq7Tc0HAnppMSoI7D9nP_fH1Vd1yHbfp4w/pMtAOFzb60w.jpg?size=597x569&quality=95&sign=9afaf4a1181b246f619c95fc0172e517&type=album](https://sun9-49.userapi.com/s/v1/if2/-Ai3IdAaiQIJimgAee8wQ7eJ_0sxi9OFeF8sn_J78cor7hIs0UcwBegP73rCYWpcU5kfuFKsbbMJOuD3bq-HNuVm.jpg?quality=95&as=32x28,48x43,72x64,108x96,160x142,240x213,360x319,480x425,540x479,640x567,720x638,1080x957,1280x1135,1320x1170&from=bu&cs=1280x0))
+![alt text=a](https://sun9-49.userapi.com/s/v1/if2/-Ai3IdAaiQIJimgAee8wQ7eJ_0sxi9OFeF8sn_J78cor7hIs0UcwBegP73rCYWpcU5kfuFKsbbMJOuD3bq-HNuVm.jpg?quality=95&as=32x28,48x43,72x64,108x96,160x142,240x213,360x319,480x425,540x479,640x567,720x638,1080x957,1280x1135,1320x1170&from=bu&cs=1280x0)
 
 ## 🏗 Внутренняя архитектура (контейнеры и компоненты)
 
